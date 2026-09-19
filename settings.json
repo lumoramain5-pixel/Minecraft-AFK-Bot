@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Binod",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Pulse_X1.aternos.me",
     "port": 12901,
-    "version": "1.20.1",
+    "version": "1.20.11",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Main Binod hu",
+        "Chaloge Bihar?",
+        "500 Ka Katta loge"
       ]
     },
     "chat-log": true,
